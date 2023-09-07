@@ -10,7 +10,7 @@
 
 
 ### Glad to see you here!👨‍💻
-A sophomore cybersecurity enthusiast with major interest’s in web exploitation and cryptography I have experience with nmap , metasploit , netcat , hashcat , sublist3r , gobuster , dirbuster , jhon the ripper and burp suite. I love development and competitive coding as well . I am still in my developing phase so would love to meet new people who have similar interest’s. 
+A sophomore web developer and cybersecurity enthusiast with major interest’s in front-end development and cryptography. I have an a budding interest in competitive coding as well . I am still in my developing phase so would love to meet new people who have similar interest’s. 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=exoticorange96&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <space>
